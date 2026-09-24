@@ -8,7 +8,7 @@ return {
         uid = 6
     },
     {
-        wl = "aa69f4dbf1025b20179642f1849b5336445873e2c8cb09fc8bc6b23437f09e2d",  -- new hwid since that one was outdated
+        wl = "testing",  --testing 
         uid = 1
     },
     {
