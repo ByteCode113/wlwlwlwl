@@ -8,7 +8,7 @@ return {
         uid = 6
     },
     {
-        wl = "c59d4f1f5cb88cf80f1902c783f5ebaa52afe7ad524cb17adcd535271c73a2f9",  -- byte
+        wl = "aa69f4dbf1025b20179642f1849b5336445873e2c8cb09fc8bc6b23437f09e2d",  -- new hwid since that one was outdated
         uid = 1
     },
     {
